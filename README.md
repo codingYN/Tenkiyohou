@@ -1,1 +1,2 @@
 # Tenkiyohou
+自分が住んでる地域の天気予報をLINEに通知するbot
